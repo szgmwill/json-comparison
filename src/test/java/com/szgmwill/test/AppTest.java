@@ -1,4 +1,4 @@
-package com.tianxun.will.test;
+package com.szgmwill.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,4 +1,4 @@
-package com.tianxun.will.test;
+package com.szgmwill.test;
 
 import java.io.IOException;
 import java.io.StringWriter;

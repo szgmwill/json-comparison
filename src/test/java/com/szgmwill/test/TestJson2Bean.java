@@ -1,4 +1,4 @@
-package com.tianxun.will.test;
+package com.szgmwill.test;
 
 import org.junit.After;
 import org.junit.Before;

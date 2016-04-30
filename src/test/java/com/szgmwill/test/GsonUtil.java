@@ -1,4 +1,4 @@
-package com.tianxun.will.test;
+package com.szgmwill.test;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

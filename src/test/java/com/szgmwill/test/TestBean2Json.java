@@ -1,4 +1,4 @@
-package com.tianxun.will.test;
+package com.szgmwill.test;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -50,7 +50,7 @@ public class TestBean2Json {
 		System.out.println("================costTime["+(System.currentTimeMillis() - startTime)+"]");
 	}
 	
-	// @Test
+//	@Test
 	public void testGsonBean2Json() {
 		System.out.println(GsonUtil.bean2Json(p));
 
@@ -59,7 +59,7 @@ public class TestBean2Json {
 		}
 	}
 
-	@Test
+//	@Test
 	public void testJacksonBean2Json() throws Exception {
 		System.out.println(JacksonUtil.bean2Json(p));
 
@@ -68,7 +68,7 @@ public class TestBean2Json {
 		}
 	}
 
-//	@Test
+	@Test
 	public void testFastJsonBean2Json() throws Exception {
 		System.out.println(FastJsonUtil.bean2Json(p));
 
